@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Wesley\Documents\SoftwareEngineering\TechExercise\TechExerciseProgram\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2400946117.index
+2419353253.index
+3280778478.index
+3300625005.index
+2702379201.index
+3300625005.index
+1278615139.index
+2880364106.index

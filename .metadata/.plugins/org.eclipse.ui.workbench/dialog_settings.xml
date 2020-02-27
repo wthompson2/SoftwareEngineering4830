@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="750"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="844"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.PackageExplorer"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="package"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Wesley\Downloads\webproject\webproject\WebContent"/>
+			<item value="C:\Users\Wesley\Downloads\webproject\webproject\src"/>
+			<item value="C:\Users\Wesley\Documents\SoftwareEngineering\4830\workspace4830\workspaceCSCI4830-q1-0213-thompson\webproject-q1-0213-thompson\WebContent\WEB-INF"/>
+			<item value="C:\Users\Wesley\Documents\SoftwareEngineering\mysql-connector-java-8.0.17"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="588"/>
+		<item key="DIALOG_Y_ORIGIN" value="93"/>
+	</section>
+</section>
